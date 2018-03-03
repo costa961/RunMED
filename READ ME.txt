@@ -1,0 +1,4 @@
+La cartella clips contiene il sorgente di clips, il quale è stato esteso con funzioni che ho definito.
+Le funzioni che ho definito sono presenti all'interno del file userfunctions.
+Il sorgente di RunMED è presente all'interno della cartella clp.
+Nella cartella clp,inoltre, saranno memorizzate le cartelle cliniche dei pazienti.
